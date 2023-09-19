@@ -1,0 +1,17 @@
+#Archivos para ignorar del sistema MATLAB
+# Source files
+# ============
+*.m             text diff=matlab
+*.mu            text diff=matlab
+
+# Binary files
+# ============
+*.fig           binary
+*.mat           binary
+*.mdl           binary
+*.slx           binary
+*.mlx           binary
+*.xlsx          binary
+*.jpg           binary
+*.pdf           binary
+*.docx          binary
