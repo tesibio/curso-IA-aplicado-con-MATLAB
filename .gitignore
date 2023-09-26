@@ -1,2 +1,3 @@
 #Archivos para ignorar del sistema MATLAB
 *.MATLABDriveTag
+*.zip
